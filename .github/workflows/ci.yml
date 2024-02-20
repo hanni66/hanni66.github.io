@@ -11,6 +11,7 @@ on:
       - "docs/**"
       - "README.md"
       - "LICENSE"
+      - "_site"
   pull_request:
     paths:
       - "**"
