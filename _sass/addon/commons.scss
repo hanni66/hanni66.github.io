@@ -692,7 +692,7 @@ $btn-mb: 0.5rem;
   overflow-y: auto;
   width: $sidebar-width;
   z-index: 99;
-  background: url('/assets/img/favicons/sidebar.jpg');
+  background-image: url('/assets/img/favicons/sidebar.jpg');
   border-right: 1px solid var(--sidebar-border-color);
   background-size: cover;  
   background-repeat: no-repeat;
